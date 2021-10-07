@@ -1,5 +1,8 @@
 In this project, let's build a **Prime Video** by applying the concepts we have learned till now.
 
+### Link to the page is given below:
+https://mkprimevideo.ccbp.tech/
+
 ### Refer to video below:
 
 <div style="text-align: center;">
